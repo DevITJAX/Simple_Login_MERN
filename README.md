@@ -130,17 +130,6 @@ The backend exposes the following API endpoints:
 
     ```
     cd ../client
-    npm start
+    npm run dev
     ```
 
-### Additional Notes
-
-*   Ensure MongoDB is running and accessible.
-*   Replace `your_mongodb_connection_string` and `your_jwt_secret_key` with your actual MongoDB connection string and a strong secret key.
-*   This is a basic setup, so you may want to add more features, such as input validation, error handling, and UI improvements.
-
-Citations:
-[1] https://github.com/DevITJAX/Simple_Login_MERN
-
----
-Answer from Perplexity: https://www.perplexity.ai/search/an-you-do-a-documentation-for-q7d_oI8DQuSWKywdFKXrTA?login-source=fileUpload&login-new=true&2=d&utm_source=copy_output

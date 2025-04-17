@@ -1,5 +1,3 @@
-OK. Here's the documentation for the "Simple\_Login\_MERN" project based on the GitHub repository you linked:
-
 ## Simple_Login_MERN Project Documentation
 
 ### Project Overview
